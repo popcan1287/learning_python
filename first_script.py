@@ -1,4 +1,6 @@
-bike =  100
-own =  27.30
-diff = bike - own
+
+
+bike_cost =  100
+current_savings =  27.30
+diff = bike_cost - current_savings
 print(diff)
